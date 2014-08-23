@@ -6,6 +6,7 @@ Task(s)
 Submission Item(s)
 ------------------
 You have choice on how you submit your work - please choose one of the following options to submit your work.
+
 1. A newscast video that is under 5 minutes containing all of the information from both tasks above.
 2. A newscast podcast/audio transmission that is under 5 minutes containing all of the information from both tasks above.
 
