@@ -1,7 +1,7 @@
 Task(s)
 -------
 1. As a group (groups randomly chosen), research the given Operating System
-2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
+2. Create a presentation to present to the class regarding your Operating System.
 3. Within your presentation you must answer the following questions about it:
   1. Describe what an operating system is, and what it does.
   2. Describe your particular operating system, include details such as history, when was it invented (or released), how did it evolve, etc.
@@ -12,20 +12,21 @@ Task(s)
   7. What would you use the operating system for?
   8. What aspects of your life would it be useful for?
 
-###Hardware Parts
-1. Motherboard (Amin, Brayden, Mohammed)
-2. CPU (Abdel, Omar, Jane)
-3. RAM, ROM and general memory (Gurman, Ji Bin, Justin)
-4. Video Card (Kareem, Kevin, Pierre)
-5. Sound Card (Laiba, Ali)
-6. Power Supplies (Chris, Ashar, Pranav)
-7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Hafsa, Deven, Saad)
-8. Output devices (monitor, projector, printer, etc.) (Rafay, Mark, Amro)
-9. Hard Disk Drives, Solid State Drives, and any other storage drives (Wayne, Jacie, Eddy)
-10. Cases, Cabling, Fans, Heatsinks, Watercooling (Arshad, Emad)
+###Operating Systems
+1. Windows (Abdel, Chris, Kevin)
+2. Mac OS (Ali, Justin, Omar)
+3. Puppy Linux (Pierre, Rafay, Wayne)
+4. iOS (Amro, Brayden, Hafsa)
+5. Android OS (Arshad, Jane, Mark, Pranav)
+6. Ubuntu (Amin, Emad, Gurman)
+7. Debian (Ashar, Jacie, Saad)
+8. Mageia (Deven, Eddy, Ji Bin)
+9. Java ME (Kareem, Laiba, Mohammed)
 
 Presentation Schedule
 ------------------
-September 10th: Group #1, 4, 7
-September 11th: Group #2, 5, 8
-September 12th: Group #3, 6, 9
+September 23rd: Group #1, 4, 9
+
+September 24th: Group #2, 5, 8
+
+September 25th: Group #3, 6, 7
