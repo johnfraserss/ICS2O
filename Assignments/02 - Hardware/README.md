@@ -27,5 +27,7 @@ Task(s)
 Presentation Schedule
 ------------------
 September 10th: Group #1, 4, 7
+
 September 11th: Group #2, 5, 8
+
 September 12th: Group #3, 6, 9
