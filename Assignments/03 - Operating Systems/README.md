@@ -1,7 +1,7 @@
 Task(s)
 -------
 1. As a group (groups randomly chosen), research the given Operating System
-2. Create a presentation to present to the class regarding your Operating System.
+2. Create a presentation regarding your Operating System (5-10 minutes).
 3. Within your presentation you must answer the following questions about it:
   1. Describe what an operating system is, and what it does.
   2. Describe your particular operating system, include details such as history, when was it invented (or released), how did it evolve, etc.
@@ -25,8 +25,8 @@ Task(s)
 
 Presentation Schedule
 ------------------
-September 23rd: Group #1, 4, 9
+September 23rd: Group #1, 6, 7
 
 September 24th: Group #2, 5, 8
 
-September 25th: Group #3, 6, 7
+September 25th: Group #3, 4, 9
