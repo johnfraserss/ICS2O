@@ -7,4 +7,4 @@ ICS2O Course for Mr. Seidel's classes
 * Due dates added for assignments 1-3
   * Post Secondary: Sept 8
   * Hardware Presentations: Sept 15, 16, 17
-  * Operating Systems Presentations: Sept 23, 24, 25
+  * Operating Systems Presentations: Sept 22, 23, 24
