@@ -12,7 +12,7 @@ Software related: MP3, OGG, AVI, NTSC, PAL, FAT, exFAT, NTFS, IDE, AMD, P2P
 
 Submissables
 ------------------
-Do _not_ hand in this work.  It will just be checked for completion.
+Do **_not_** hand in this work.  It will just be checked for completion.
 
 Due Date(s)
 -----------
