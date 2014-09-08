@@ -30,3 +30,7 @@ September 22nd: Group #1, 6, 7
 September 23rd: Group #2, 5, 8
 
 September 24th: Group #3, 4, 9
+
+Rubric(s)
+---------
+[Presentation Rubric] (http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
