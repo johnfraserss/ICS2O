@@ -13,7 +13,7 @@ Task(s)
 7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Hafsa, Deven, Saad)
 8. Output devices (monitor, projector, printer, etc.) (Rafay, Mark, Amro)
 9. Hard Disk Drives, Solid State Drives, and any other storage drives (Wayne, Jacie, Eddy)
-10. Cases, Cabling, Fans, Heatsinks, Watercooling (Arshad, Emad)
+10. Cases, Cabling, Fans, Heatsinks, Watercooling (Arshad, Emad, Eesha)
 
 Presentation Schedule
 ------------------
