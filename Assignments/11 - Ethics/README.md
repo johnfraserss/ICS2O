@@ -11,7 +11,9 @@ You will present your skit to the class and it must be at least 5-10 minutes.
 Topic(s)
 -----------
 See your teacher for topic choices and group sizes
+
 Sample ones include:
+
 * Music and video file downloading
 * Spyware
 * Identity theft
