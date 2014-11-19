@@ -3,6 +3,7 @@ Task(s)
 
 * Using your knowledge of programming, if statements, and FOR loops you will recreate the sketch found in **S: | OUT | SEIDEL | ICS2O | assignment_Two** folder. (double click the assignment_Two.bat file to run it).
 * The sketch will reset or change depending on whether you **LEFT-CLICK** or **RIGHT-CLICK** the mouse.
+* **Use the template file provided** (above)
 
 Submissables
 ------------
