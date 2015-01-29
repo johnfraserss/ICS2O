@@ -13,24 +13,21 @@ Task(s)
   8. What aspects of your life would it be useful for?
 
 ###Operating Systems
-1. Windows (Abdel, Chris, Kevin)
-2. Mac OS (Ali, Justin, Omar)
-3. Puppy Linux (Pierre, Rafay, Wayne)
-4. iOS (Amro, Brayden, Hafsa)
-5. Android OS (Arshad, Jane, Eesha, Pranav)
-6. Ubuntu (Amin, Emad, Gurman)
-7. Debian (Ashar, Jacie, Saad)
-8. Mageia (Deven, Eddy, Ji Bin)
-9. Java ME (Kareem, Laiba, Mohammed)
+1. Windows
+2. Mac OS 
+3. Puppy Linux 
+4. iOS
+5. Android OS 
+6. Ubuntu 
+7. Debian
+8. Mageia 
+9. Java ME 
 
 Presentation Schedule
 ------------------
-September 22nd: Group #1, 6, 7
-
-September 23rd: Group #2, 5, 8
-
-September 24th: Group #3, 4, 9
+See your teacher for presentation scheduling
 
 Rubric(s)
 ---------
+Your teacher might use a different rubric than below - see your teacher for clarification
 [Presentation Rubric] (http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
