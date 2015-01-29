@@ -11,9 +11,10 @@ Using your knowledge of flowcharting and the SDLC complete the following tasks:
 
 Due Date(s)
 -----------
-See your teacher for due dates (Ms. Fiocco)
+See your teacher for due dates
 
 
 Rubric(s)
 ---------
+Your teacher might use a different rubric for this task - see your teacher for clarification
 * [SDLC and Flowcharting Rubric] (http://www.mrseidel.com/rubrics/ICS3U/ICS3U_-_SDLC_And_Flowcharting.pdf)
