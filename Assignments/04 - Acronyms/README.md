@@ -16,4 +16,4 @@ Do **_not_** hand in this work.  It will just be checked for completion.
 
 Due Date(s)
 -----------
-See your teacher (Ms. Fiocco) for details on due dates
+See your teacher for details on due dates
