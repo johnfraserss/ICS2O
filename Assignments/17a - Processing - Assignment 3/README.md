@@ -1,7 +1,7 @@
 Task(s)
 -------
 
-Create a program that displays your first name on the screen that shows your understanding of all of the Processing concepts you learned this year.
+Create a program that displays your first name on the screen that shows your understanding of all of the Processing concepts you learned up to this point in the year.
 
 See the example in the **OUT | SEIDEL | ICS2O | ASSIGNMENT 3** folder.
 
