@@ -3,7 +3,7 @@ Task(s)
 
 Create a program that displays your first name on the screen that shows your understanding of all of the Processing concepts you learned this year.
 
-See the example in the **OUT | SEIDEL | ICS2O | CULMINATING** folder.
+See the example in the **OUT | SEIDEL | ICS2O | ASSIGNMENT 3** folder.
 
 Concepts Taught
 ---------------
@@ -28,7 +28,7 @@ See your teacher for due dates
 
 Rubric(s)
 ---------
-**(Your teacher might have a different rubric for this project - see your teacher to see if this rubric applies to you)**
+**(Your teacher might have a different rubric for this assignment - see your teacher to see if this rubric applies to you)**
 
 This rubric is out of a total of 48
 
