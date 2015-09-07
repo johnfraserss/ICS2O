@@ -17,8 +17,8 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 * [Wing IDE 101] (http://wingware.com/downloads/wingide-101)
 * [Textbook] (http://www.pythonlearn.com/book.php)
  
-####Tentative Topical Timeline
-_Note: Some of these topics may be assigned as homework throughout the course_
+####Tentative Topics
+_Note: Some of these topics may be assigned as homework throughout the course, and the order may change as the course progresses_
 * Computer Hardware
 * Software Products
 * Operating Systems
