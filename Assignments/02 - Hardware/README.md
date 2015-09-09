@@ -9,7 +9,7 @@ Task(s)
 3. RAM, ROM and general memory (Sahil, Shyam, Jilin) 
 4. Video Card (Alex, Michael, William)
 5. Sound Card (Melissa, Cherry, Hana)
-6. Power Supplies 
+6. Power Supplies (Mr. Seidel)
 7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Eunice, Dithara, Shehrbano)
 8. Output devices (monitor, projector, printer, etc.) (Alfred, Erin, Katherine)
 9. Hard Disk Drives, Solid State Drives, and any other storage drives (Nasif, Davin, Rohan)
