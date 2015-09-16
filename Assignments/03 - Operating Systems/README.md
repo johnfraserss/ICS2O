@@ -27,12 +27,12 @@ If you are creating a __video__ piece, you are to follow these criteria:
 ###Operating Systems
 1. Windows (Ibrahim, Jason, Jeet)
 2. Mac OS  (Mohamed, Nick, Shyam)
-3. Linux (Ubuntu, Debian, etc.) (Eric, Qin Chuan, Jilin)
+3. Linux (Ubuntu, Debian, etc.) (Eric, Qin Chuan, Ahsan)
 4. [Puppy Linux](http://puppylinux.org/) (Alex, Melissa, Junaid)
 5. [Tiny Core Linux](http://tinycorelinux.net/) (Cherry, Dithara, Alfred)
 6. iOS (William, Shehrbano, Erin, Nasif)
-7. Android OS (Davin, Nikhil, Sahil, Eunice)
-8. Windows Phone OS (Giri, Rohan, Katherine, Michael)
+7. Android OS (Davin, Sahil, Eunice)
+8. Windows Phone OS (Rohan, Katherine, Michael)
 
 Rubric(s)
 ---------
