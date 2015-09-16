@@ -31,8 +31,8 @@ If you are creating a __video__ piece, you are to follow these criteria:
 4. [Puppy Linux](http://puppylinux.org/) (Alex, Melissa, Junaid)
 5. [Tiny Core Linux](http://tinycorelinux.net/) (Cherry, Dithara, Alfred)
 6. iOS (William, Shehrbano, Erin, Nasif)
-7. Android OS (Davin, Sahil, Eunice)
-8. Windows Phone OS (Rohan, Katherine, Michael)
+7. Android OS (Davin, Sahil, Eunice, Joshua)
+8. Windows Phone OS (Rohan, Katherine, Michael, Giri)
 
 Rubric(s)
 ---------
