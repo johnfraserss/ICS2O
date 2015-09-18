@@ -34,6 +34,10 @@ If you are creating a __video__ piece, you are to follow these criteria:
 7. Android OS (Davin, Sahil, Eunice, Joshua)
 8. Windows Phone OS (Rohan, Katherine, Michael, Giri)
 
+Due Date(s)
+---------
+Your file(s) are due by 3pm on Wednesday, September 23rd, 2015.
+
 Rubric(s)
 ---------
 You will be marked will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above. 
