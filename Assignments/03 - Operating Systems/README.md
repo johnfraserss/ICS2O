@@ -26,7 +26,7 @@ If you are creating a __video__ piece, you are to follow these criteria:
 
 ###Operating Systems
 1. Windows (Ibrahim, Jason, Jeet)
-2. Mac OS  (Mohamed, Nick, Shyam)
+2. Mac OS (and OS X)  (Mohamed, Nick, Shyam, Mason)
 3. Linux (Ubuntu, Debian, etc.) (Eric, Qin Chuan, Ahsan)
 4. [Puppy Linux](http://puppylinux.org/) (Alex, Melissa, Junaid)
 5. [Tiny Core Linux](http://tinycorelinux.net/) (Cherry, Dithara, Alfred)
