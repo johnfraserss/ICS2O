@@ -11,7 +11,7 @@ Task(s)
 ###Criteria
 If you are creating a __written__ piece, you are to follow these criteria:
 
-* No longer than 1 page single spaced.  
+* No longer than 2 pages single spaced.  
 * Include a descriptive title for your article
 * You must also include a photo to start your article.  Your image can be no larger than 300 pixels in any dimension.
 
