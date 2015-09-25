@@ -40,7 +40,7 @@ Your file(s) are due by 3pm on Wednesday, September 23rd, 2015.
 
 Rubric(s)
 ---------
-You will be marked will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above. 
+Your mark will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above. 
 
 Your opinion piece must include clear solutions to the rubric items below.
 
