@@ -17,19 +17,13 @@ Due Date(s)
 -----------
 October 5th, 2015 by 3pm
 
-
 Rubric(s)
 ---------
 Your mark will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above.
 
-
-| Title | 4 | 3 | 2 | 1 | R |
-
+| Descriptor | 4 | 3 | 2 | 1 | R |
 | ----- | --- | --- | --- | --- | --- |
-
 |A4.2 - describe the features and functions of network hardware | | | | | |
-
 |A4.3 - describe the sharing of information via network resources | | | | | |
-
 | Work is visually appealing and appropriate for target audience | | | | | |
 
