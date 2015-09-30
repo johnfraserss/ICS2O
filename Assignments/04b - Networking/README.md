@@ -11,7 +11,7 @@ Ensure your visual story conveys the basic information of how a network works.
 
 Cite any of your sources used (MLA or APA).  Do not use Wikipedia as a source, but it is a good place to start your search.
 
-If you need to see the notes, check [here](http://bit.ly/1LCcyXq).
+If you need to see the notes, check [here](http://bit.ly/1MGGal0).
 
 Due Date(s)
 -----------
