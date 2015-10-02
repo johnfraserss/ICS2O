@@ -15,7 +15,7 @@ If you need to see the notes, check [here](http://bit.ly/1MGGal0).
 
 Due Date(s)
 -----------
-October 5th, 2015 by 3pm
+October 30th, 2015 by 3pm (date changed - will become homework as of October 5th)
 
 Rubric(s)
 ---------
