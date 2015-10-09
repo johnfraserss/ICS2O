@@ -15,7 +15,7 @@ If you need to see the notes, check [here](http://bit.ly/1MGGal0).
 
 Due Date(s)
 -----------
-October 30th, 2015 by 3pm (date changed - will become homework as of October 5th)
+Drop into the IN folder by October 30th, 2015 at 3pm (date changed - will become homework as of October 5th)
 
 Rubric(s)
 ---------
