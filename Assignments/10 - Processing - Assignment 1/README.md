@@ -1,6 +1,6 @@
 Task(s)
 -------
-* Using your knowledge of programming and if statements you will recreate the sketch found in the folder OUT\Seidel\ICS2O\assignment_One
+* Using your knowledge of programming and if statements you will recreate the sketch found [here](https://youtu.be/HCm3khN8dDs)
 * The entire sketch is to be completed using only **arc()**, **ellipse()**, and one **line** for your shapes.  
 
 
