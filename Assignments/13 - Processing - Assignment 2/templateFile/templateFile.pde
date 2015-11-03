@@ -12,8 +12,11 @@
 boolean linesOnly;
 //add in variables as need be here
 
-void setup() {
+void settings() {
   size (600, 600);
+}
+
+void setup() {
   linesOnly = true;
   //add in any initialization information here
   
