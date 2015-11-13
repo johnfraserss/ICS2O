@@ -21,7 +21,7 @@ Sample topics include:
 * Keystroke logging
 * Packet sniffing
 * Biometric data
-* Effective passwords
+* Effective passwords (Dithara, Shehrbano, Eunice, Katherine)
 * Firewalls
 * Secure websites
 * Cyber bullying
