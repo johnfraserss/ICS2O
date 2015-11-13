@@ -16,7 +16,7 @@ Sample topics include:
 
 * Music and video file downloading
 * Spyware
-* Identity theft
+* Identity theft (Shyam, Nasif, Davin, Rohan)
 * Phishing
 * Keystroke logging
 * Packet sniffing
