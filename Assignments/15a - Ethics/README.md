@@ -14,7 +14,7 @@ Each topic below is on a first-come-first-served basis.
 
 Sample topics include:
 
-* Music and video file downloading
+* Music and video file downloading (Sahil, Mohamed, Jeet, Alfred)
 * Spyware
 * Identity theft (Shyam, Nasif, Davin, Rohan)
 * Phishing
@@ -24,7 +24,7 @@ Sample topics include:
 * Effective passwords (Dithara, Shehrbano, Eunice, Katherine)
 * Firewalls
 * Secure websites
-* Cyber bullying
+* Cyber bullying (Alex, Michael, William)
 
 
 Presentation Schedule
