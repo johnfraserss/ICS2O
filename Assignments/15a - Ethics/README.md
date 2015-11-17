@@ -18,7 +18,7 @@ Sample topics include:
 * Spyware
 * Identity theft (Shyam, Nasif, Davin, Rohan)
 * Phishing (Mason, Nick, Jason)
-* Keystroke logging
+* Keystroke logging (Cherry, Erin, Melissa)
 * Packet sniffing
 * Biometric data
 * Effective passwords (Dithara, Shehrbano, Eunice, Katherine)
@@ -29,7 +29,14 @@ Sample topics include:
 
 Presentation Schedule
 ------------------
-- November 18th: Skits begin
+Presentations begin November 18th in the following order:
+* Firewalls
+* Phishing
+* Keystroke Logging
+* Music and video file downloading
+* Cyberbullying
+* Effective passwords
+* Identity theft
 
 
 Rubric(s)
