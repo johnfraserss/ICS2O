@@ -22,7 +22,7 @@ Sample topics include:
 * Packet sniffing
 * Biometric data
 * Effective passwords (Dithara, Shehrbano, Eunice, Katherine)
-* Firewalls
+* Firewalls (Ibrahim, Ahsan, Qin Chuan, Eric)
 * Secure websites
 * Cyber bullying (Alex, Michael, William)
 
