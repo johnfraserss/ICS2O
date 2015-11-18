@@ -46,7 +46,7 @@ Your mark will be calculated as follows: __Mark = R * C__ where R is the value o
 | Descriptor | 4 | 3 | 2 | 1 | R |
 | ----- | --- | --- | --- | --- | --- |
 | C3.1 - describe legal or ethical issues related to the use of the computer | | | | | |
-| C3.2 - describe safeguards for preventings unethical use of computers | | | | | |
+| C3.2 - describe safeguards for preventing unethical use of computers | | | | | |
 | Storyline is plausible, and people aren't just reading a script | | | | | |
 
 1. If you are absent without a legitimate reason (a doctor's note required), you will receive a mark of zero on your presentation without the option to present again.
