@@ -1,6 +1,8 @@
 Practice Task(s)
 -------
 
+###Processing Practice
+
 The following will give you practice with _if statements_
 
 1. Create a program that changes the background colour of each quadrant as you mouse-over the area.
@@ -9,3 +11,6 @@ The following will give you practice with _if statements_
 4. Create a program that has a circle bouncing left and right off of the screen edges.
 5. Create a program that has a circle bouncing left and right off of the screen edges and changes to another colour if the mouse is over the circle.
 
+###Python Practice
+
+Practice to be placed here in the future
