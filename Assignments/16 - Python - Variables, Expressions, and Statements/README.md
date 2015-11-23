@@ -9,11 +9,11 @@ Complete the following tasks as described (there are many).  Each major bullet p
 ```python
 # author: Jane Doe
 # date: 2013-03-26
-# filename: put2.py
-# description: prints user’s name to the screen
+# filename: printName.py
+# description: prints userâ€™s name to the screen
 ```
 
-* Re-create the "HelloWorld" program that you made previously using __concatenation__.  An example of how concatenation works is below.  Save the file as "HelloWorld_concat.py"
+* Create a program that prints out your name using __concatenation__.  An example of how concatenation works is below.  Save the file as "HelloWorld.py"
 ```python
 print ('Mr.' + 'Seidel')
 
@@ -63,7 +63,7 @@ print (4 // 2)
 >>> 2
 ```
 
-* Create a program that calculates 5 squared (5²).  An example is below.  Save the file as '007.py'.
+* Create a program that calculates 5 squared (5Â²).  An example is below.  Save the file as '007.py'.
 ```python
 print (2 ** 3)
 
