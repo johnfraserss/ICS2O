@@ -11,4 +11,6 @@ The following will give you practice with _for loops_
 
 ###Python Practice
 
-Python practice to come in the future
+1. Create a program that receives a sentence.  Output the number of vowels in that sentence.
+2. Create a program that receives a number (n).  Have your program then ask for n numbers to add together, and have your program give out the sum of those numbers.
+3. Create a program that receives a number (n).  Have your program then ask for n sentences.  Have your program calculate how many vowels there in in all of the sentences combined.

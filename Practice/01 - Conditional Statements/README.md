@@ -13,4 +13,7 @@ The following will give you practice with _if statements_
 
 ###Python Practice
 
-Practice to be placed here in the future
+1. Create a program that receives one word, and one integer (less than 100).  Have the program repeat the word an amount of times equal to the integer. (e.g. if the word was "lol" and the number was 5, then the output would be "lollollollollol")
+2. Create a program that receives a single number.  Output whether that number is odd or even.
+
+
