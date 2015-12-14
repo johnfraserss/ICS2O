@@ -1,5 +1,7 @@
 Task(s)
 -------
+**UPDATE DEC 14 - Check the submissables and where/how to hand in your work for this unit**
+
 The programs you have created up until now tend to do things once, and then shut down.  What if we want to do things multiple times? What if we want to run a program until a certain key is pressed?  This is where an **iterator** comes in.  In Python there are numerous ways to create an iterator.  We will be focusing on two types here; a **while** loop, and a **for** loop.
 
 ####While loops
@@ -119,8 +121,20 @@ Enter a number: ... #loops around back to the top
 
 Submissables
 ------------
-Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.
+**UPDATE: DEC 14**
+
+Hand in your work to the IN drive.  
+
+* If you have a student number ending in 0, 1, 2, or 3, then hand in "iter001.py"
+* If you have a student number ending in 4, 5, or 6, then hand in "iter002.py"
+* If you have a student number ending in 7, 8, or 9, then hand in "iter003.py"
+ 
+~~Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.~~
 
 Due Date(s)
 ----------
-Marking will begin on December 11th, 2015.
+**UPDATE: DEC 14**
+
+December 15th, 2016 to the IN drive.
+
+~~Marking will begin on December 11th, 2015.~~
