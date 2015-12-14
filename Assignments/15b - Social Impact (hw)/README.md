@@ -1,5 +1,7 @@
 Task(s)
 -------
+**UPDATE DEC 14 - Check the updated due date for this unit**
+
 In no more than 250 words, concisely describe and summarize **one** of the following computer accessibility technologies:
 
 * Text-to-speech
@@ -21,7 +23,8 @@ Cite all sources using either APA or MLA format
 
 Due Date(s)
 -----------
-This will be checked no earlier than December 16th, 2015 (long timelines, high expectations)
+~~This will be checked no earlier than December 16th, 2015 (long timelines, high expectations)~~
+Hand in this work to the IN drive by December 16th, 2015
 
 
 Rubric(s)
