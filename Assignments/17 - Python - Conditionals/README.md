@@ -1,5 +1,8 @@
 Task(s)
 -------
+**UPDATE DEC 14 - Check the submissables and where/how to hand in your work for this unit**
+
+
 Complete the following tasks as described (there are multiple).  Each major bullet point is a new program to create:
 
 ####Conditionals
@@ -33,11 +36,21 @@ As you can see in the above example there are multiple ways to compare a value (
 
 Submissables
 ------------
-Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.
+**UPDATE: DEC 14**
+
+Hand in your work to the IN drive.  
+
+* If you have an odd numbered student number, then hand in "if001.py"
+* If you have an even numbered student number, then hand in "if002.py"
+
+~~Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.~~
 
 Due Date(s)
 ----------
-Marking will begin on December 4th, 2015.
+**UPDATE: DEC 14**
+December 15th, 2015 to the IN drive
+
+~~Marking will begin on December 4th, 2015.~~
 
 #####Credits
 Some of the work here is based on the work written by Peter Beens found throughout [this website](http://www2.beens.org/ics/python)
