@@ -1,5 +1,7 @@
 Task(s)
 -------
+**UPDATE DEC 14 - Check the submissables and where/how to hand in your work for this unit**
+
 You **MAY** work in pairs to complete this project.
 
 Create a program in both Processing and Python that completes this task.
@@ -22,11 +24,15 @@ Be ready to compare and contrast the two programs when the teacher comes around.
 
 Submissables
 ------------------
-Do **_not_** hand in this work.  It will just be checked for completion.
+Hand in a text document comparing and contrasting the two programs created above.
+
+~~Do **_not_** hand in this work.  It will just be checked for completion.~~
 
 Due Date(s)
 -----------
-This will be checked no earlier than December 16th, 2016
+Hand in your text document into the IN folder December 17th, 2015
+
+~~This will be checked no earlier than December 16th, 2015~~
 
 Rubric(s)
 ------
