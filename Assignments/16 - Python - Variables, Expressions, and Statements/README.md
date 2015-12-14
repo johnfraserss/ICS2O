@@ -1,5 +1,7 @@
 Task(s)
 -------
+**UPDATE DEC 14 - Check the submissables and where/how to hand in your work for this unit**
+
 Complete the following tasks as described (there are many).  Each major bullet point is a new program to create:
 
 ####Math & Documentation
@@ -150,11 +152,21 @@ print ('Hello, ' + name + '.  I noticed that you are ' + str(age) + ' years old,
 
 Submissables
 ------------
-Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.
+**UPDATE: DEC 14**
+
+Hand in your work to the IN drive.  
+
+* If you have an odd numbered student number, then hand in "var005.py"
+* If you have an even numbered student number, then hand in "var006.py"
+
+~~Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.~~
 
 Due Date(s)
 ----------
-Marking will begin on December 1st
+**UPDATE: DEC 14**
+
+December 15th, 2016 to the IN drive.
+~~Marking will begin on December 1st~~
 
 
 #####Credits
