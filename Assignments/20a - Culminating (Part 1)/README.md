@@ -27,7 +27,7 @@ Hand your work into the IN drive.
 
 Due Date(s)
 ----------
-This culminating is due by January 20th, 2016.  **NO EXCEPTIONS**
+This culminating is due by January 21st, 2016 by 3pm.  **NO EXCEPTIONS**
 
 Rubric(s)
 ---------
