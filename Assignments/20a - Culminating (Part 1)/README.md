@@ -5,6 +5,8 @@ Task(s)
 
 Create a program using Processing that displays your first name on the screen that shows your understanding of all of the Processing concepts you learned up to this point in the year.
 
+_You are **not** allowed to use actual letters (i.e. via the "text" function) to complete this task_
+
 See the example in the **OUT | SEIDEL | ICS2O | CULMINATING** folder.
 
 ###Concepts Taught
