@@ -8,7 +8,7 @@ There are a variety of symbols used in flowcharting, but as noted only 4 will be
 
 ###Terminator Shape / Terminal [1]:
 This shape tells you where the flowchart begins and ends. It shows the entry point of your flowchart and the exit point. To designate the start of your flowchart, you would fill this shape with words like **Start** or **Begin**. The words you use are up to you.
-![](http://www.rff.com/fcs_start.png])
+![](http://www.rff.com/fcs_start.png)
 To designate the ending point of the chart, this shape is filled with words like **End**, **Exit**, or **Return**.
 ![](http://www.rff.com/fcs_end.png)
 Usually a flowchart has one starting point. However, a flowchart can have as many ending points as needed. Sometimes you see this shape drawn as an oval as shown below. That is fine.
