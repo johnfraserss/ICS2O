@@ -13,12 +13,16 @@ Submissables
 * If you are creating a physical product, hand in the item to the teacher
 * If you are creating a virtual product, hand in to the IN folder
 
-Due Date(s)
------------
-This work is due by January 5th, 2016 (long timelines, high expectations).
+Submissables & Due Date(s)
+----------
+See your teacher for due dates and how to submit your work
+
 
 Rubric(s)
 ---------
+**Your teacher might use a different rubric than below.  Please see your teacher for information.**
+<br/>
+<br/>
 
 This project is out of 8.  The rubric line that is related to the task you chose + the visual depiction requirement.
 

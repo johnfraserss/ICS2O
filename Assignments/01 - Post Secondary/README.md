@@ -12,17 +12,16 @@ Cite your sources (APA or MLA format accepted).
 
 _Your sources, title, and name do not count towards your 50 word limit._
 
-Submissables
-------------
-Do **not** hand this work in - your teacher will mark this at your computer near the due date.
-
-Due Date(s)
+Submissables & Due Date(s)
 ----------
-Marking will begin at the beginning of class on December 7th.
+See your teacher for due dates and how to submit your work
 
 
 Rubric(s)
 ---------
+**Your teacher might use a different rubric than below.  Please see your teacher for information.**
+
+<br/><br/>
 This rubric is out of a total of 8
 
 | | 0 | 1 | 2 | 3 | 4 |

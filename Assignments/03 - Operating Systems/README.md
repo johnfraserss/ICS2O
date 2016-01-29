@@ -25,21 +25,25 @@ If you are creating a __video__ piece, you are to follow these criteria:
 * Imagery of the different operating systems. 
 
 ###Operating Systems
-1. Windows (Ibrahim, Jason, Jeet)
-2. Mac OS (and OS X)  (Mohamed, Nick, Shyam, Mason)
-3. Linux (Ubuntu, Debian, etc.) (Eric, Qin Chuan, Ahsan)
-4. [Puppy Linux](http://puppylinux.org/) (Alex, Melissa, Junaid)
-5. [Tiny Core Linux](http://tinycorelinux.net/) (Cherry, Dithara, Alfred)
-6. iOS (William, Shehrbano, Erin, Nasif)
-7. Android OS (Davin, Sahil, Eunice, Joshua)
-8. Windows Phone OS (Rohan, Katherine, Michael, Giri)
+1. Windows 
+2. Mac OS (and OS X)  
+3. Linux (Ubuntu, Debian, etc.) 
+4. [Puppy Linux](http://puppylinux.org/)
+5. [Tiny Core Linux](http://tinycorelinux.net/) 
+6. iOS 
+7. Android OS 
+8. Windows Phone OS 
 
-Due Date(s)
----------
-Your file(s) are due by 3pm on Wednesday, September 23rd, 2015.
+Submissables & Due Date(s)
+----------
+See your teacher for due dates and how to submit your work
+
 
 Rubric(s)
 ---------
+**Your teacher might use a different rubric than below.  Please see your teacher for information.**
+
+<br/>
 Your mark will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above. 
 
 Your opinion piece must include clear solutions to the rubric items below.

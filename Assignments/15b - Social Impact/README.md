@@ -1,6 +1,5 @@
 Task(s)
 -------
-**UPDATE DEC 14 - Check the updated due date for this unit**
 
 In no more than 250 words, concisely describe and summarize **one** of the following computer accessibility technologies:
 
@@ -21,14 +20,16 @@ In your paragraph, you need to:
 
 Cite all sources using either APA or MLA format
 
-Due Date(s)
------------
-~~This will be checked no earlier than December 16th, 2015 (long timelines, high expectations)~~
-Hand in this work to the IN drive by December 16th, 2015
+Submissables & Due Date(s)
+----------
+See your teacher for due dates and how to submit your work
 
 
 Rubric(s)
 ---------
+**Your teacher might use a different rubric than below.  Please see your teacher for information.**<br/>
+<br/><br/>
+
 Your mark will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above.
 
 | Descriptor | 4 | 3 | 2 | 1 | R |

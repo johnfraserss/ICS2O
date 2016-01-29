@@ -14,33 +14,30 @@ Each topic below is on a first-come-first-served basis.
 
 Sample topics include:
 
-* Music and video file downloading (Sahil, Mohamed, Jeet, Alfred)
+* Music and video file downloading 
 * Spyware
-* Identity theft (Shyam, Nasif, Davin, Rohan)
-* Phishing (Mason, Nick, Jason)
-* Keystroke logging (Cherry, Erin, Melissa)
+* Identity theft 
+* Phishing 
+* Keystroke logging 
 * Packet sniffing
 * Biometric data
-* Effective passwords (Dithara, Shehrbano, Eunice, Katherine)
-* Firewalls (Ibrahim, Ahsan, Qin Chuan, Eric)
+* Effective passwords 
+* Firewalls 
 * Secure websites
-* Cyber bullying (Alex, Michael, William)
+* Cyber bullying 
 
 
-Presentation Schedule
-------------------
-Presentations begin November 18th in the following order:
-* Firewalls
-* Phishing
-* Keystroke Logging
-* Music and video file downloading
-* Cyberbullying
-* Effective passwords
-* Identity theft
+Submissables & Due Date(s)
+----------
+See your teacher for due dates and how to submit your work
 
 
 Rubric(s)
 ---------
+**Your teacher might use a different rubric than below.  Please see your teacher for information.**
+
+
+<br/><br/>
 Your mark will be calculated as follows: __Mark = R * C__ where R is the value of the rubric, and C is whether you followed the criteria above.
 
 | Descriptor | 4 | 3 | 2 | 1 | R |
