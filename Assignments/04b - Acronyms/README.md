@@ -15,5 +15,5 @@ Submissables
 Do **_not_** hand in this work.  It will just be checked for completion.
 
 Due Date(s)
------------
-This will be checked no earlier than October 7th, 2015
+----------
+See your teacher for due dates and how to submit your work
