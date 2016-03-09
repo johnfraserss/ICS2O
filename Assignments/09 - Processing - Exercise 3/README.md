@@ -9,4 +9,4 @@ Do **not** hand this in, just ensure your teacher sees the work.
 
 Due Date(s)
 ----------
-This work will be assumed complete by Oct 28
+See your teacher for due dates and how to submit your work.

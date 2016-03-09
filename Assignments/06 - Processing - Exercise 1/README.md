@@ -6,10 +6,6 @@ Using your knowledge of Processing so far, recreate the picture in [this] (http:
 
 *The original image was found at: http://images.clipartpanda.com/easter-bunny-clip-art-bunny3.gif*
 
-Submissables
-------------
-Do **not** hand this in, just ensure your teacher see the work.
-
 Due Date(s)
 ----------
-This work will be assumed complete by Oct 16
+See your teacher for due dates and how to submit your work.
