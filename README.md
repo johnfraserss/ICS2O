@@ -24,7 +24,7 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
 * [Daniel Shiffman - Introductory Videos for Processing] (http://vimeo.com/channels/introcompmedia)
 
-###Scripting Resources for HTML5 and CSS
+####Scripting Resources for HTML5 and CSS
 * [Codecademy] (https://www.codecademy.com/learn/web)
 * [HTML for Beginners] (http://www.htmldog.com/guides/html/beginner/)
 * [CSS for Beginners] (http://www.htmldog.com/guides/css/beginner/)
