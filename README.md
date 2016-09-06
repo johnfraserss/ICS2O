@@ -36,3 +36,4 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [Textbook] (http://www.pythonlearn.com/book.php)
  
 
+Mr. Seidel's students: Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
