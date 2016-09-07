@@ -25,14 +25,18 @@ If you are creating a __video__ piece, you are to follow these criteria:
 * Imagery of the different operating systems. 
 
 ###Operating Systems
-1. Windows 
-2. Mac OS (and OS X)  
-3. Linux (Ubuntu, Debian, etc.) 
-4. [Puppy Linux](http://puppylinux.org/)
-5. [Tiny Core Linux](http://tinycorelinux.net/) 
-6. iOS 
-7. Android OS 
-8. Windows Phone OS 
+|OS | Person (Mr. Seidel's Class) |
+|---|---|
+| 1. Windows | Omar, Hasan H., Muhammad |
+| 2. Mac OS (and OS X) | Ayesha, Hassan N., Saim |
+| 3. Linux (Ubuntu, Debian, etc.) | Yousef, Ruchira, Eshan |
+| 4. [Puppy Linux](http://puppylinux.org/) | Alan, Max, Umair, Matthew |
+| 5. [Tiny Core Linux](http://tinycorelinux.net/) | William, Aydan, Maryam, Eric |
+| 6. iOS | Andrew, Ayan, Hai Yang |
+| 7. Android OS | Abhiraj, Steve, Clark |
+| 8. Windows Phone OS | Nabeel, John, Gillian, Mahmoud |  
+**Remember:** this task is done **individually**.
+
 
 Submissables & Due Date(s)
 ----------
