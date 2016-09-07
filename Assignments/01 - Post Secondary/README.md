@@ -14,7 +14,8 @@ _Your sources, title, and name do not count towards your 50 word limit._
 
 Submissables & Due Date(s)
 ----------
-See your teacher for due dates and how to submit your work
+**Mr. Seidel's Class**: Due September 9th, 2016 by 3pm to the IN drive.  
+**Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
 
 
 Rubric(s)
