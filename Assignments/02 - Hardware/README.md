@@ -22,7 +22,7 @@ Presentation Order
 
 Submissables & Due Date(s)
 ----------
-**Mr. Seidel's Class**: Presentations start September 12th, 2016.
+**Mr. Seidel's Class**: Presentations start September 12th, 2016.  
 **Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
 
 Rubric(s)
