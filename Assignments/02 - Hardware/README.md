@@ -18,7 +18,7 @@ Task(s)
 
 Presentation Order
 ------------------
-- Group #7, 9, 6, 10, 3, 4, 2, 8, 1, 5 (randomly ordered as per [Random.org](https://www.random.org/lists/))
+- Group #9, 4, 10, 3, 2, 8, 1, 5, 6, 7 (randomly ordered as per [Random.org](https://www.random.org/lists/)) (slight changes to accommodate student requests)
 
 Submissables & Due Date(s)
 ----------
