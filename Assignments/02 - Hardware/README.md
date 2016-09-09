@@ -5,7 +5,7 @@ Task(s)
 
 | Hardware Part(s) | Mr. Seidel's Groupings |
 |---|---|
-| 1. Motherboard | Omar, Ayesha, Yousef|
+| 1. Motherboard | Omar, Ayesha, Yousef, Matthew |
 | 2. CPU | Alan, Andrew, William |
 | 3. RAM, ROM and general memory | Ali, Abhiraj, Nabeel |
 | 4. Video Card | Ruchira, Hasan H., Max |
@@ -13,7 +13,7 @@ Task(s)
 | 6. Power Supplies | Hassan N., Muhammad, Saim |
 | 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | Eshan, Umair, Maryam |
 | 8. Output devices (monitor, projector, printer, etc.) | Hai Yang, Clark, Gillian |
-| 9. Hard Disk Drives, Solid State Drives, and any other storage drives | Matthew, Eric, John |
+| 9. Hard Disk Drives, Solid State Drives, and any other storage drives | Eric, John, Aman |
 | 10. Cases, Cabling, Fans, Heatsinks, Watercooling | No one |
 
 Presentation Order
