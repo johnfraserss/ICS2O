@@ -27,7 +27,7 @@ If you are creating a __video__ piece, you are to follow these criteria:
 ###Operating Systems
 |OS | Person (Mr. Seidel's Class) |
 |---|---|
-| 1. Windows | Omar, Hasan H., Muhammad |
+| 1. Windows | Omar, Hasan H., Muhammad, Luca |
 | 2. Mac OS (and OS X) | Ayesha, Hassan N., Saim |
 | 3. Linux (Ubuntu, Debian, etc.) | Yousef, Ruchira, Eshan, Aman |
 | 4. [Puppy Linux](http://puppylinux.org/) | Alan, Max, Umair, Matthew |
