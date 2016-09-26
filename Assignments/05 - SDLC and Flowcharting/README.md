@@ -16,8 +16,8 @@ For creating flowcharts, there are some tools available online such as:
 
 Submissables & Due Date(s)
 ----------
-See your teacher for due dates and how to submit your work
-
+**Mr. Seidel's Class**: Due October 5th, 2016 by 3pm to the IN drive.  
+**Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
 
 Rubric(s)
 ---------
