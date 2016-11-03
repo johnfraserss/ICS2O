@@ -27,5 +27,4 @@ Your mark will be calculated as follows: __Mark = R * C__ where R is the value o
 
 | Descriptor | 4 | 3 | 2 | 1 | R |
 | ----- | --- | --- | --- | --- | --- |
-| C2.3: Describe ways to reduce resource use and to support environmental protection measures (e.g. management of natural
-resources)  | | | | | |
+| C2.3: Describe ways to reduce resource use and to support environmental protection measures (e.g. management of natural resources)  | | | | | |
