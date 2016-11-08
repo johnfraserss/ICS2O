@@ -19,7 +19,7 @@ Do **not** hand this work in - your teacher will mark this at your computer near
 
 Due Date(s)
 ----------
-**Mr. Seidel's Class:** Marking will begin at the beginning of class on November 21st.
+**Mr. Seidel's Class:** Marking will begin at the beginning of class on November 21st.  
 **Mr. Lightbody's Class:** _see your teacher for information_
 
 
