@@ -30,9 +30,8 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [CSS for Beginners] (http://www.htmldog.com/guides/css/beginner/)
 
 ####Programming Language and Resources for Python
-* [Python 3.3.3 Download] (https://www.python.org/download/releases/3.3.3/) - To be downloaded and installed before Wing IDE if you are using this at home
-* [Python 3.3 Documentation] (https://docs.python.org/3.3/)
-* [Wing IDE 101] (http://wingware.com/downloads/wingide-101)
+* [Python 2.7.6 Download] (https://www.python.org/download/releases/2.7.6/) - To be downloaded and installed before Wing IDE if you are using this at home
+* [Python 2.7 Documentation] (https://docs.python.org/2.7/)
 * [Textbook] (http://www.pythonlearn.com/book.php)
  
 
