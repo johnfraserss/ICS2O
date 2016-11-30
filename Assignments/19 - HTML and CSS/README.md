@@ -22,4 +22,6 @@ Your mark will be calculated as follows: __Mark = R * C__ where R is the value o
 
 | Descriptor | 4 | 3 | 2 | 1 | R |
 | ----- | --- | --- | --- | --- | --- |
-|  Rubric to follow.  | | | | | |
+| B3.1: Write clear and maintainable code using proper conventions (naming, tags, indentation, etc.)   | | | | | |
+| Menu is the same across all pages and works properly  | | | | | |
+| Pages match requirements, as requested including properly cited sources (APA, MLA, or Chicago style)  | | | | | |
