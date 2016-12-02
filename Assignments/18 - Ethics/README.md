@@ -29,10 +29,10 @@ Skit Presentation Schedule
 ---------------------
 _Note:_ This skits schedule is just a rough guideline. If all skits finish early on one day, the skits that are scheduled for the next day will be pushed up.
 
-| Topic | Date |
+| Topic/Names | Date |
 | ----- | ---
 | x | Dec 19 |
-| x | Dec 19 |
+| Music and File Downloading - Alan, Hai Yang, Aydan, Eshan | Dec 19 |
 | x | Dec 19 |
 | x | Dec 19 |
 | x | Dec 20 |
