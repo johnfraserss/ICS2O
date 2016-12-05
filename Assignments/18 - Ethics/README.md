@@ -13,7 +13,7 @@ Topic(s)
 
 Sample topics include:
 
-* Music and video file downloading
+* ~~Music and video file downloading~~
 * Spyware
 * Identity theft
 * Phishing
@@ -23,7 +23,7 @@ Sample topics include:
 * Effective passwords
 * Firewalls
 * Secure websites
-* Cyber bullying
+* ~~Cyber bullying~~
 
 Skit Presentation Schedule
 ---------------------
