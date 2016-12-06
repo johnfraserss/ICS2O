@@ -33,7 +33,7 @@ _Note:_ This skits schedule is just a rough guideline. If all skits finish early
 | ----- | ---
 | Cyberbullying - Ali, Abhiraj, Saim, Muhammad | Dec 19 |
 | Music and File Downloading - Alan, Hai Yang, Aydan, Eshan | Dec 19 |
-| x | Dec 19 |
+| Identify Theft - Ruchira, Hasan, William, ?John? | Dec 19 |
 | x | Dec 19 |
 | x | Dec 20 |
 | x | Dec 20 |
