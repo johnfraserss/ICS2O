@@ -15,9 +15,9 @@ Sample topics include:
 
 * ~~Music and video file downloading~~
 * Spyware
-* Identity theft
+* ~~Identity theft~~
 * Phishing
-* Keystroke logging
+* ~~Keystroke logging~~
 * Packet sniffing
 * Biometric data
 * Effective passwords
@@ -33,8 +33,8 @@ _Note:_ This skits schedule is just a rough guideline. If all skits finish early
 | ----- | ---
 | Cyberbullying - Ali, Abhiraj, Saim, Muhammad | Dec 19 |
 | Music and File Downloading - Alan, Hai Yang, Aydan, Eshan | Dec 19 |
-| Identify Theft - Ruchira, Hasan, William, ?John? | Dec 19 |
-| x | Dec 19 |
+| Identify Theft - Ruchira, Hasan, William | Dec 19 |
+| Keystroke Logging - Aman, Ayan, Andrew, Umair | Dec 19 |
 | x | Dec 20 |
 | x | Dec 20 |
 | x | Dec 20 |
