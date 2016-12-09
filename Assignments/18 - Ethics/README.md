@@ -22,7 +22,7 @@ Sample topics include:
 * Biometric data
 * Effective passwords
 * Firewalls
-* Secure websites
+* ~~Secure websites~~
 * ~~Cyber bullying~~
 
 Skit Presentation Schedule
@@ -35,9 +35,9 @@ _Note:_ This skits schedule is just a rough guideline. If all skits finish early
 | Music and File Downloading - Alan, Hai Yang, Aydan, Eshan | Dec 19 |
 | Identify Theft - Ruchira, Hasan, William | Dec 19 |
 | Keystroke Logging - Aman, Ayan, Andrew, Umair | Dec 19 |
-| x | Dec 20 |
-| x | Dec 20 |
-| x | Dec 20 |
+| Secure Websites - Clark, Max, Eric | Dec 19/20 |
+| x | Dec 19/20 |
+| x | Dec 19/20 |
 
 Rubric(s)
 ---------
