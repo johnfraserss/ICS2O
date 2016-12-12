@@ -36,7 +36,7 @@ _Note:_ This skits schedule is just a rough guideline. If all skits finish early
 | Identify Theft - Ruchira, Hasan, William, John | Dec 19 |
 | Keystroke Logging - Aman, Andrew, Umair | Dec 19 |
 | Secure Websites - Clark, Max, Eric | Dec 19/20 |
-| Phishing - Yousef, Ayan, Gillian | Dec 19/20 |
+| Phishing - Yousef, Ayan, Gillian, Ayesha | Dec 19/20 |
 | x | Dec 19/20 |
 | x | Dec 19/20 |
 
