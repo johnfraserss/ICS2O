@@ -16,7 +16,7 @@ Sample topics include:
 * ~~Music and video file downloading~~
 * Spyware
 * ~~Identity theft~~
-* Phishing
+* ~~Phishing~~
 * ~~Keystroke logging~~
 * Packet sniffing
 * Biometric data
