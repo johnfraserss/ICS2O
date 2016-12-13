@@ -10,7 +10,7 @@ Free online infographic tools are available [here](https://www.canva.com/create/
 
 Due Date(s) & Submissables
 -----------
-See your teacher for due dates and how to submit your work
+See your teacher for due dates and how to submit your work  
 **Mr. Seidel's Class**: Due **December 5th, 2016 by 3pm** to the IN drive.  
 **Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
 
