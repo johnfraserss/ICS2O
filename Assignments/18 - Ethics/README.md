@@ -20,7 +20,7 @@ Sample topics include:
 * ~~Keystroke logging~~
 * Packet sniffing
 * Biometric data
-* Effective passwords
+* ~~Effective passwords~~
 * Firewalls
 * ~~Secure websites~~
 * ~~Cyber bullying~~
@@ -31,14 +31,13 @@ _Note:_ This skits schedule is just a rough guideline. If all skits finish early
 
 | Topic/Names | Date |
 | ----- | ---
-| Cyberbullying - Ali, Abhiraj, Saim, Muhammad | Dec 19 |
 | Music and File Downloading - Alan, Hai Yang, Aydan, Eshan | Dec 19 |
-| Identify Theft - Ruchira, Hasan, William, John | Dec 19 |
+| Cyberbullying - Ali, Abhiraj, Saim, Muhammad | Dec 19 |
+| Effective Passwords - Luca, Hassan, Omar, Mahmoud | Dec 19 |
 | Keystroke Logging - Ayan, Aman, Andrew, Umair | Dec 19 |
+| Identify Theft - Ruchira, Hasan, William, John | Dec 19/20 |
 | Secure Websites - Clark, Max, Eric | Dec 19/20 |
 | Phishing - Yousef, Gillian, Ayesha | Dec 19/20 |
-| x | Dec 19/20 |
-| x | Dec 19/20 |
 
 Rubric(s)
 ---------
