@@ -4,7 +4,7 @@ Task(s)
 
 **This task is worth 10% of your final mark (10 of the 30% culminating mark)**
 
-1. Create a **website** that contains the following **webpages** with a menu connecting them all.  On each webpage, you will be reflecting on the previous non-programming assignments.  Your specific page reflections for each section are below:
+Create a **website** that contains the following **webpages** with a menu connecting them all.  On each webpage, you will be reflecting on the previous non-programming assignments.  Your specific page reflections for each section are below:
 * __Post Secondary__: Do you ever see yourself creating programs in the future (beyond all of your school plans)?  Why/Why not?
 * __Hardware__: Why is hardware important to a computer programmer? What did you learn from this assignment?
 * __Operating Systems__: Microsoft and Apple go bankrupt, leaving the world only one operating system choice: Linux.  Explain which distribution you would choose, and how you would make the transition to Linux.  If neither Microsoft nor Apple actually disappeared, would you ever choose Linux for yourself? Why/Why not?
