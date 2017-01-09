@@ -9,7 +9,7 @@ Create a basic HTML website with a total of 3 pages that includes the ```<p>```,
 
 Submissables & Due Date(s)
 ----------
-**Mr. Seidel's Class**: Due **January 9th, 2017 by end of class** to the IN drive.  
+**Mr. Seidel's Class**: Due **January 9th, 2017 by 11:59PM** to the IN drive.  
 **Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
 
 
