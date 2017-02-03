@@ -51,34 +51,69 @@ Depending on which section you were given, you will answer different questions i
 _H_ - Hardware, _O_ - Operating Systems, _N_ - Networking
 
 ###Hardware
-H1, H2, H3, H4, H5, H6, H7, H8, H9.
+H1, H2, H3, H4, H5, H6, H7, H8, H9.  
 * Describe the basic functionality of your piece of hardware.
 * What makes a good <*insert name of hardware piece here*> ?  What should you look for when buying one? What if you are on a budget?
 
-H10.
+H10.  
 * Describe each piece of terminology given (any others would be good as well)
 * What makes something _better_ based on the terminology?
 
-H11.
+H11.  
 * Describe what a Raspberry Pi is.
 * Why would someone purchase a Raspberry Pi?
 * What use do they have? What does the future look like for them?
 
 ###Operating Systems
-O1
-O2, O3, O4, O5, O6, O7
-O8
-O9
-O10
+O1  
+* Describe how an operating system works
+* Describe and display how an operating system connects to hardware
+
+O2, O3, O4, O5, O6, O7  
+* Describe your operating system
+* Who is your operating system built for?
+* Why would someone choose your operating system?
+
+O8  
+* Describe the operating system
+* Compare your operating system with the other ones that are in your section
+* Give an **unbiased** review of the pros and cons of each of the operating systems 
+
+O9  
+* Describe the differences between the 3 types of software
+* Describe why they are all important to computer usage
+
+O10  
+* Demonstrate how to copy, paste, move, delete files, and create shortcuts within the Windows operating system.
+* Show how to properly organize files, including file names, folder names, etc.
 
 ###Networking
-N1
-N2
-N3
-N4
-N5
-N6
-N7
+N1  
+* Describe what a network is on an overview level
+* Give a basic overview of how a network works, and what some sample ones would look like.
+
+N2  
+* Describe and show the various types of networks.  Also give definitions to any acronyms you are using.
+
+N3  
+* Describe and show the various network topologies.
+* Give pros and cons to each of the topologies given.
+
+N4    
+* Describe the two topics given.
+* Give pros and cons to each of the topics given.
+
+N5  
+* Describe each of the protocols given.
+* What are the advantages of using FTP for downloading of files over HTTP?
+
+N6  
+* Describe the differences between the two types of network connections, including security issues.
+* Give pros and cons to each of the two types of network connections.
+
+N7  
+* Describe the different types of mobile connectivity options, including a history
+* Describe why one technology would be used over another.
 
 Presentation Order
 ------------------
@@ -88,10 +123,6 @@ Submissables & Due Date(s)
 ----------
 **Mr. Seidel's Class**: Presentations due to IN drive by February 10th, 2017 at 2:46pm.  Presentations start February 13th, 2017.  
 **Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
-
-Rubric(s)
----------
-**Your teacher might use a different rubric than below.  Please see your teacher for information.**
 
 Rubric(s)
 ---------
