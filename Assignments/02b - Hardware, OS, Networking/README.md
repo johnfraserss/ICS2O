@@ -81,7 +81,7 @@ This section will be a written reflection answering the following questions:
 
 Submissables & Due Date(s)
 ----------
-**Mr. Seidel's Class**: Package due to IN drive by February 27th, 2017 at 2:46pm.
+**Mr. Seidel's Class**: Package due to IN drive by February 27th, 2017 at 2:46pm.  
 **Mr. Lightbody's Class**: See your teacher for due dates and how to submit your work
 
 Rubric(s)
@@ -90,6 +90,6 @@ Rubric(s)
 
 Rubric(s)
 ---------
-| Item        | 0  | 1  | 2  | 3  | 4  |
-| ----------- | -- | -- | -- | -- | -- |
-|Part a | | | | | |
+| Item        |  0  |  1  |  2  |  3  |  4  |
+| ----------- | --- | --- | --- | --- | --- |
+| Part a | | | | | |
