@@ -11,30 +11,30 @@ Clients
 -------
 
 ###Client #1
-Hello! I am looking for some help with regards to my computing needs at the office.  I know that we will be needing 2 computers for ourselves, and there will be contractors that come in and will be using their own laptops.  They will need connectivity to the network printer while they are in the building.  
-
-For the two computers, our needs are as follows:
-* We need the fastest, most graphically powerful computer that you can create for us.
-* We need a lot of space on the computers, and a couple of external hard drives would also prove useful.
-* Some specialized equipment we will need is a Wacom tablet, and the best audio system you can find.
-* We like consistency and prefer Windows, but if we were to take on Linux, it would have to be a user-friendly distribution.
-* We need a new network printer, just something to print off black and white copies of our work, as we get our colour prints done professionally off-site.
-
-We figured we could also have a TV-screen set up in our foyer where customers wait, but have it connected to a really cheap computer that is network capable.  This way we can put updates, show our art, etc. on the TV screen.
-
-We create assets for a local game creation company (Client #2), so we will need to be able to get them assets easily.  Do you have any suggestions?
+> Hello! I am looking for some help with regards to my computing needs at the office.  I know that we will be needing 2 computers for ourselves, and there will be contractors that come in and will be using their own laptops.  They will need connectivity to the network printer while they are in the building.  
+> 
+> For the two computers, our needs are as follows:
+> * We need the fastest, most graphically powerful computer that you can create for us.
+> * We need a lot of space on the computers, and a couple of external hard drives would also prove useful.
+> * Some specialized equipment we will need is a Wacom tablet, and the best audio system you can find.
+> * We like consistency and prefer Windows, but if we were to take on Linux, it would have to be a user-friendly distribution.
+> * We need a new network printer, just something to print off black and white copies of our work, as we get our colour prints done professionally off-site.
+> 
+> We figured we could also have a TV-screen set up in our foyer where customers wait, but have it connected to a really cheap computer that is network capable.  This way we can put updates, show our art, etc. on the TV screen.
+> 
+> We create assets for a local game creation company (Client #2), so we will need to be able to get them assets easily.  Do you have any suggestions?
 
 
 ###Client #2
-Hi!
-
-I am cheap... super cheap.  I need 5 computers that are powerful enough to play the newest games, but I only need to run Linux.  We love tinkering with programs, would are okay with setting things up on Linux.
-
-As a computer programmer, myself and my 4 colleagues are going to need similar computers.  We tend to use a lot of Git (version control software), and GitHub to complete our work and collaborate.  We will need the best network system and connectivity that you can set up for us.
-
-The programs we tend to make are highly graphically intensive, and are going to be taking up a lot of space. We will also need a network storage system (NAS) to hold on to all of the assets that we are getting created for us by our artists (Client #1).
-
-We also tend to prefer mechanical keyboards, and a mouse with many button options so that we can set up macros to speed up our work.
+> Hi!
+> 
+> I am cheap... super cheap.  I need 5 computers that are powerful enough to play the newest games, but I only need to run Linux.  We love tinkering with programs, would are okay with setting things up on Linux.
+> 
+> As a computer programmer, myself and my 4 colleagues are going to need similar computers.  We tend to use a lot of Git (version control software), and GitHub to complete our work and collaborate.  We will need the best network system and connectivity that you can set up for us.
+> 
+> The programs we tend to make are highly graphically intensive, and are going to be taking up a lot of space. We will also need a network storage system (NAS) to hold on to all of the assets that we are getting created for us by our artists (Client #1).
+> 
+> We also tend to prefer mechanical keyboards, and a mouse with many button options so that we can set up macros to speed up our work.
 
 
 Package
