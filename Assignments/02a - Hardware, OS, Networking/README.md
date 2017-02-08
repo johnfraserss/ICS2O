@@ -36,7 +36,7 @@ Task(s)
 |---|---|
 | 1. What a network is | David ___g |
 | 2. Types of networks (LAN, WAN, WLAN, SAN) | David ___n |
-| 3. Topologies (Mesh, Star, Bus, Ring, Tree) | Mahmoud |
+| 3. Topologies (Mesh, Star, Bus, Ring, Tree) | Zihao |
 | 4. Client-Server vs. Peer-to-Peer | Sota |
 | 5. Protocols (VPN, IP, IPv6, FTP, sFTP, HTTP, HTTPS) | Paul |
 | 6. Wireless vs. Wired | Amanjjot |
