@@ -35,5 +35,4 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [Textbook] (http://www.pythonlearn.com/book.php)
  
 
-Mr. Seidel's students: Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
-[Rules/Regs Survey](https://www.surveymonkey.com/r/W8NQ3Z7)
+Mr. Seidel's class: Please see the [GitHub Wiki](https://github.com/mrseidel-classes/ICS2O/wiki) for the rules and regulations of the classroom as decided by your peers.
