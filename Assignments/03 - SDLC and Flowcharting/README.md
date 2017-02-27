@@ -4,8 +4,8 @@ You have been asked to create a computer program based on the following:
 
 _A representative from the government has asked you to create an online voting system for a federal election across Canada._
 
-Using your knowledge of flowcharting and the SDLC complete the following tasks:
-* Create a flowchart of how this system would work (Flowcharting)
+Using your knowledge of flowcharting and the SDLC complete the following tasks:  
+* Create a flowchart of how this system would work (Flowcharting)  
 * Create a **basic** sample design of how the system would look (Visual depiction of a few screens of the system).
 
 You can access the notes in class from [this website](https://mrseidel.gitbooks.io/intro-computer-studies-using-processing-and-python/content/Other%20Topics/sdlc_and_flowcharting.html)
@@ -35,4 +35,4 @@ Example of how to read the rubric below:
 |B2.1 use a visual problem-solving model (e.g., diagram; flow chart) to plan the content of a program (well-formatted flowchart and design) | | | | | |
 |B2.3: create screen outputs (designs) that conform to program specification; | | | | | |
 |**B3: apply basic code maintenance techniques when writing program plans** | | | | | |
-|B3.3: use a tracing technique to understand program flow and to identify and correct logic (flowchart is clear and makes sense) | | | | | |
+|B3.3: use a tracing technique to understand program flow and to identify and correct logic (flowchart is clear and you can easily trace the flow) | | | | | |
