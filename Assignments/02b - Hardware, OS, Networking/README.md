@@ -10,7 +10,7 @@ _Mr. Lightbody's class might set up this differently.  See your teacher for more
 Clients
 -------
 
-###Client #1
+### Client 1
 > Hello! I am looking for some help with regards to my computing needs at the office.  I know that we will be needing 2 computers for ourselves, and there will be contractors that come in and will be using their own laptops.  They will need connectivity to the network printer while they are in the building.  
 > 
 > For the two computers, our needs are as follows:
@@ -25,7 +25,7 @@ Clients
 > We create assets for a local game creation company (Client #2), so we will need to be able to get them assets easily.  Do you have any suggestions?
 
 
-###Client #2
+### Client 2
 > Hi!
 > 
 > I am cheap... super cheap.  I need 5 computers that are powerful enough to play the newest games, but I only need to run Linux.  We love tinkering with programs, would are okay with setting things up on Linux.
@@ -39,26 +39,26 @@ Clients
 
 Package
 --------
-###Section 1 (Title Page)  
+### Section 1 (Title Page)  
 A title page (1 page) including:
 * Your name, 
 * the course code, 
 * a title for your work, 
 * which client you were assigned,
  
-###Section 2 (Table of Contents)  
+### Section 2 (Table of Contents)  
 A table of contents (1-2 pages), complete this at the end after you have completed every other section.
 
-###Section 3 (Abstract)  
+### Section 3 (Abstract)  
 An abstract about the paperwork in the next few pages.  This is usually a summary of what is included in the entire package, including a basic conclusion on decisions made.
 
-###Section 4 (Proposed System)  
+### Section 4 (Proposed System)  
 This section will be the largest of all sections, and will include:
 * A paragraph describing the client's needs in your own words followed by,
 * A table (or tables) that shows the hardware and software choices, including part type, product name, where you plan to buy the item and price (1-3 pages).
 * Include hyperlinks for your prices.  If you are unsure of how to add a hyperlink, a short lesson will be available for you.
 
-###Section 5 (Networking)
+### Section 5 (Networking)
 This is a written section that includes: 
 * Describe the network that the client would need to set up.  
 * Topology choice
@@ -67,24 +67,24 @@ This is a written section that includes:
 * What networking applications and protocols would prove useful for the clients.
 * Describe a file sharing methodology that works for your clients.
 
-###Section 6 (Software and Structuring)
+### Section 6 (Software and Structuring)
 This is a written and visual section as follows:
 * Describe what applications the client could possibly need.  Include current pricing (hyperlink the price to your source).
 * Describe a folder structure that you could suggest to the client.  Feel free to include a visual of this if you find it easier.
 
-###Section 7 (Reasoning)  
+### Section 7 (Reasoning)  
 This section will include reasoning behind your choices in _Section 4_, _Section 5_, and _Section 6_
 
-###Section 8 (Reflection)
+### Section 8 (Reflection)
 This section will be a written reflection answering the following questions:
 * What was the most difficult part of completing this project?
 * What did you learn from completing this project?
 * Would you have preferred to complete this project for the other _Client_? Why or why not?
 
-###Section 9 (Sources)
+### Section 9 (Sources)
 * Cite any of your sources here using either APA, MLA, or Chicago Style formatting.
 
-###Important notes
+### Important notes
 * All pages should have a page number at the bottom, excluding the first page.
 * For _Section 4_ and _Section 5_, you have to purchase individual parts, and **not** all-in-one solutions.
 * **DO NOT PRINT THIS WORK** - See the _Submissables_ section for more details
