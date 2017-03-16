@@ -50,7 +50,7 @@ Depending on which section you were given, you will answer different questions i
 
 _H_ - Hardware, _O_ - Operating Systems, _N_ - Networking
 
-###Hardware
+### Hardware
 H1, H2, H3, H4, H5, H6, H7, H8, H9.  
 * Describe the basic functionality of your piece of hardware.
 * What makes a good <*insert name of hardware piece here*> ?  What should you look for when buying one? What if you are on a budget?
@@ -64,7 +64,7 @@ H11.
 * Why would someone purchase a Raspberry Pi?
 * What use do they have? What does the future look like for them?
 
-###Operating Systems
+### Operating Systems
 O1  
 * Describe how an operating system works
 * Describe and display how an operating system connects to hardware
@@ -87,7 +87,7 @@ O10
 * Demonstrate how to copy, paste, move, delete files, and create shortcuts within the Windows operating system.
 * Show how to properly organize files, including file names, folder names, etc.
 
-###Networking
+### Networking
 N1  
 * Describe what a network is on an overview level
 * Give a basic overview of how a network works, and what some sample ones would look like.
