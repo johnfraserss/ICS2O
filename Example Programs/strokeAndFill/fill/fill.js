@@ -2,15 +2,11 @@
  * Everything related to fill
  */
 
-void settings() {
-  size(500, 500);
+function setup() {
+  createCanvas(500, 500);
 }
 
-void setup() {
-  //nothing here for now
-}
-
-void draw() {
+function draw() {
   background(255); //white background
   
   noFill(); //no fill value

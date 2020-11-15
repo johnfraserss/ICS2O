@@ -1,17 +1,14 @@
 /*
  * Example using conditionals (if statements)
  */
-float diameter;
+let diameter;
 
-void settings() {
-  size(500, 500);
-}
-
-void setup() {
+function setup() {
+  createCanvas(500, 500);
   diameter = 5;
 }
 
-void draw() {
+function draw() {
   background(0);
   strokeWeight(10);
   ellipse(width/2, height/2, diameter, diameter);
@@ -66,7 +63,8 @@ void draw() {
  
  greater than ">" 
  less than "<"
- equal to "=="
+ equal to, can ignore datatype "==" (for example "5" == 5 will return true)
+ exact equal to, including datatype "===" (for example "5" === 5 will return false, but "5" === "5" will return true)
  greater than or equal to ">="
  less than or equal to "<="
  AND "&&"

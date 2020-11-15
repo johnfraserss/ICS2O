@@ -2,16 +2,12 @@
  * Example of using basics
  */
 
-void settings() {
-  size(500, 500);
-}
-
-void setup() {
-  //nothing here for now
+function setup() {
+  createCanvas(500, 500);
 }
 
 //draw a circle and rectangle of different colors
-void draw() {
+function draw() {
   background(0); //black background
   
   fill(25, 255, 255);

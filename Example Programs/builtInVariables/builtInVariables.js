@@ -2,14 +2,11 @@
  *  Examples of using some built in functions and variables
  */
  
-void settings() {
-  size(600, 600);
+function setup() {
+  createCanvas(600, 600);
 }
 
-void setup() {
-}
-
-void draw() {
+function draw() {
   //mouseX - gives you the x-position of the mouse cursor
   //mouseY - gives you the y-position of the mouse cursor
   ellipse(mouseX, mouseY, 50, 50);
@@ -27,12 +24,12 @@ void draw() {
 
 //This function will allow you to different things
 //when a key is pressed
-void keyPressed() {
+function keyPressed() {
   stroke(random(255), random(255), random(255));  
 }
 
 //This function will allow you to different things
 //when the mouse is "clicked" (pressed and released)
-void mouseClicked() {
+function mouseClicked() {
   fill(random(255), random(255), random(255));
 }

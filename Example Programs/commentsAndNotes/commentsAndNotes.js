@@ -1,17 +1,14 @@
 /*
   Description: This program draws random circles
   Author: Mr. Seidel
-  Date of last edit: Oct 31, 2016
+  Date of last edit: Nov 15, 2020
 */
 
-void settings() {
-  size(600, 600);
+function setup() {
+  createCanvas(600, 600);
 }
 
-void setup() {
-}
-
-void draw() {
+function draw() {
   //create a randomly coloured circle in a random position on the screen
   fill(random(255), random(255), random(255));
   ellipse(random(width), random(height), 25, 25);
