@@ -4,35 +4,36 @@
  *
  */
 
-float firstFloatNumber, secondFloatNumber;
-int firstIntNumber, secondIntNumber;
-String info;
+const firstFloatNumber = 5.3;
+const secondFloatNumber = 2.2;
+const firstIntNumber = 5;
+const secondIntNumber = 5;
+let info;
 
-void settings() {
-  size(500, 500);
-}
-
-void setup() {
+function setup() {
+  createCanvas(500, 500);
   textSize(24);
-  firstFloatNumber = 5.0;
-  secondFloatNumber = 2.0;
-  firstIntNumber = 5;
-  secondIntNumber = 2;
 }
 
 //draw an ever-growing circle
-void draw() {
-  background(0);
+function draw() {
+  background(255);
   
   text("Float values: " + firstFloatNumber + ", and " + secondFloatNumber, 25, 40);
   
-  float floatValue = firstFloatNumber + secondFloatNumber;
+  let floatValue = firstFloatNumber + secondFloatNumber;
   info = "Addition of floats = " + floatValue;
   text(info, 25, 85);
 
   floatValue = firstFloatNumber - secondFloatNumber;
   info = "Subtraction of floats = " + floatValue;
   text(info, 25, 110);
+  
+  // You'll notice this breaks (3.0999999... instead of 3.1)
+  // to fix this, we can put Number((floatValue).toFixed(1)) 
+  // to get 1 decimal point.  Change the number in the
+  // brackets of .toFixed(#) to change the amount of
+  // decimal places you want.
   
   floatValue = firstFloatNumber * secondFloatNumber;
   info = "Multiplication of floats = " + floatValue;
@@ -45,7 +46,7 @@ void draw() {
   
   text("Int values: " + firstIntNumber + ", and " + secondIntNumber, 25, 240);
   
-  int intValue = firstIntNumber + secondIntNumber;
+  let intValue = firstIntNumber + secondIntNumber;
   info = "Addition of ints = " + intValue;
   text(info, 25, 285);
 

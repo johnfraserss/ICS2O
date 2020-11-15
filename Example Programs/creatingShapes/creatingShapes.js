@@ -1,10 +1,8 @@
-void settings() {
-  size(600, 600);
+function setup() {
+  createCanvas(600, 600);
 }
-void setup() {
 
-}
-void draw() {
+function draw() {
   background(255);
   //Rectangles
   fill(255, 0, 0); //red

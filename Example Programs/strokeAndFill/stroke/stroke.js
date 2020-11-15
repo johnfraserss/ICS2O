@@ -2,15 +2,11 @@
  * Everything related to stroke
  */
 
-void settings() {
-  size(500, 500);
+function setup() {
+  createCanvas(500, 500);
 }
-
-void setup() {
-  //nothing here for now
-}
-
-void draw() {
+ 
+function draw() {
   background(150); //grey background
   
   noStroke(); //remove the stroke lines around shapes
